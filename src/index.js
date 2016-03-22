@@ -1,3 +1,7 @@
-import asdf from './asdf';
 
-console.log(asdf);
+
+class CMD {
+    constructor(options) {
+        
+    }
+}
